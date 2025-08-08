@@ -1,0 +1,28 @@
+{
+    "name": "Eden Contracting NY - NYC Sidewalk Repair Experts",
+    "short_name": "Eden Contracting NY",
+    "description": "Expert sidewalk repair and DOT violation removal services in NYC. Licensed contractors serving all five boroughs.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2c5aa0",
+    "theme_color": "#2c5aa0",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "categories": ["business", "construction", "services"],
+    "lang": "en-US",
+    "scope": "/",
+    "related_applications": [],
+    "prefer_related_applications": false
+}
+

@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://edencontractingny.com/sitemap.xml
+
+# Disallow common non-content files
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+Disallow: /temp/
+
+# Allow important pages
+Allow: /index.html
+Allow: /new-york-city.html
+Allow: /bronx.html
+Allow: /brooklyn.html
+Allow: /manhattan.html
+Allow: /queens.html
+Allow: /about.html
+Allow: /contact.html
+
+# Crawl-delay (optional)
+Crawl-delay: 1
+
